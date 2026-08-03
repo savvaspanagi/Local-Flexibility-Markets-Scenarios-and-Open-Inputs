@@ -45,18 +45,6 @@ If you use these inputs (network, scenarios, offers, or baseline results), pleas
 
 **Paper**
 
-> S. Panagi, C. Spanias, and P. Aristidou, “Dynamic Flexibility Requests in Local Flexibility Markets: Quantifying the DSO Willingness to Pay,” *IEEE Transactions on Energy Markets, Policy and Regulation*, 2026, under review.
-
-```bibtex
-@article{panagi2026dynamic,
-  author  = {Panagi, Savvas and Spanias, Chrysovalantis and Aristidou, Petros},
-  title   = {Dynamic Flexibility Requests in Local Flexibility Markets: Quantifying the {DSO} Willingness to Pay},
-  journal = {IEEE Transactions on Energy Markets, Policy and Regulation},
-  year    = {2026},
-  note    = {Under review},
-}
-```
-
 **Dataset (this repository)**
 
 > S. Panagi, C. Spanias, and P. Aristidou, “Benchmarking Case Study for Local Flexibility Markets: Network, Scenarios, and Open Inputs,” Zenodo, 2026. DOI: [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX).
@@ -68,5 +56,17 @@ If you use these inputs (network, scenarios, offers, or baseline results), pleas
   year         = {2026},
   howpublished = {Zenodo},
   doi          = {10.5281/zenodo.XXXXXXX},
+}
+```
+
+> S. Panagi, C. Spanias, and P. Aristidou, “Dynamic Flexibility Requests in Local Flexibility Markets: Quantifying the DSO Willingness to Pay,” *IEEE Transactions on Energy Markets, Policy and Regulation*, 2026, under review.
+
+```bibtex
+@article{panagi2026dynamic,
+  author  = {Panagi, Savvas and Spanias, Chrysovalantis and Aristidou, Petros},
+  title   = {Dynamic Flexibility Requests in Local Flexibility Markets: Quantifying the {DSO} Willingness to Pay},
+  journal = {IEEE Transactions on Energy Markets, Policy and Regulation},
+  year    = {2026},
+  note    = {Under review},
 }
 ```
