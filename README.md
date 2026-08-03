@@ -43,30 +43,30 @@ These can be regenerated at any time with `python run_baseline_pf.py`.
 
 If you use these inputs (network, scenarios, offers, or baseline results), please cite **both** the paper and this Zenodo repository:
 
-**Paper**
-
 **Dataset (this repository)**
 
-> S. Panagi, C. Spanias, and P. Aristidou, “Benchmarking Case Study for Local Flexibility Markets: Network, Scenarios, and Open Inputs,” Zenodo, 2026. DOI: [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX).
+> S. Panagi, C. Spanias, and P. Aristidou, “Benchmarking Case Study for Local Flexibility Markets: Network, Scenarios, and Open Inputs,” Zenodo, 2026. DOI: [10.5281/zenodo.21775990](https://doi.org/10.5281/zenodo.21775990).
 
 ```bibtex
 @misc{panagi2026zenodo,
   author       = {Panagi, Savvas and Spanias, Chrysovalantis and Aristidou, Petros},
-  title        = {Benchmarking Case Study for Local Flexibility Markets: Network, Scenarios, and Open Inputs},
+  title        = {Local Flexibility Markets Scenarios and Open Inputs},
   year         = {2026},
-  howpublished = {Zenodo},
-  doi          = {10.5281/zenodo.XXXXXXX},
+  publisher    = {Zenodo},
+  version      = {V01},
+  doi          = {10.5281/zenodo.21775990},
 }
 ```
+
+**Paper**
 
 > S. Panagi, C. Spanias, and P. Aristidou, “Dynamic Flexibility Requests in Local Flexibility Markets: Quantifying the DSO Willingness to Pay,” *IEEE Transactions on Energy Markets, Policy and Regulation*, 2026, under review.
 
 ```bibtex
 @article{panagi2026dynamic,
   author  = {Panagi, Savvas and Spanias, Chrysovalantis and Aristidou, Petros},
-  title   = {Dynamic Flexibility Requests in Local Flexibility Markets: Quantifying the {DSO} Willingness to Pay},
-  journal = {IEEE Transactions on Energy Markets, Policy and Regulation},
+  title   = {Benchmarking Case Study for Local Flexibility Markets: Network, Scenarios, and Open Inputs},
+  journal = {arxiv},
   year    = {2026},
-  note    = {Under review},
 }
 ```
